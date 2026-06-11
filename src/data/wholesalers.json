@@ -1,0 +1,12 @@
+[
+  { "code": "VET-AMX150", "price": 14.20 },
+  { "code": "VET-BRAV20", "price": 38.00 },
+  { "code": "VET-DOXY100", "price": 9.50 },
+  { "code": "VET-MELOX2", "price": 7.80 },
+  { "code": "PRO-APOQ16", "price": 68.00 },
+  { "code": "PRO-VETLOB", "price": 42.50 },
+  { "code": "VET-FIPR10", "price": 5.20 },
+  { "code": "PRO-CONDRO50", "price": 12.00 },
+  { "code": "VET-KETOCH", "price": 8.90 },
+  { "code": "PRO-FRONTTR", "price": 24.50 }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "code": "VET-AMX150",
+    "name": "Amoxicilina Suspensión Oral 150mg/ml (100ml)",
+    "category": "Antibióticos",
+    "section": "catalogo",
+    "description": "Antibiótico de amplio espectro para caninos y felinos. Indicado en infecciones respiratorias y dérmicas.",
+    "vetPrice": 32.50,
+    "stock": 45,
+    "badge": "Antibiótico"
+  },
+  {
+    "code": "VET-BRAV20",
+    "name": "Bravecto Comprimido Perros 10-20kg",
+    "category": "Antiparasitarios",
+    "section": "catalogo",
+    "description": "Protección contra pulgas y garrapatas de hasta 12 semanas en una sola dosis oral masticable.",
+    "vetPrice": 78.90,
+    "stock": 20,
+    "badge": "Top Ventas"
+  },
+  {
+    "code": "VET-DOXY100",
+    "name": "Doxiciclina Tabletas 100mg (Caja x 30)",
+    "category": "Antibióticos",
+    "section": "catalogo",
+    "description": "Antibiótico para el tratamiento de rickettsias, ehrlichiosis y problemas articulares en mascotas.",
+    "vetPrice": 22.00,
+    "stock": 60,
+    "badge": "Fórmula Reforzada"
+  },
+  {
+    "code": "VET-MELOX2",
+    "name": "Meloxicam Gotas Orales 1.5mg/ml (15ml)",
+    "category": "Analgésicos",
+    "section": "catalogo",
+    "description": "Antiinflamatorio no esteroideo (AINE) para alivio del dolor agudo y crónico osteoarticular.",
+    "vetPrice": 16.80,
+    "stock": 35,
+    "badge": "Analgésico"
+  },
+  {
+    "code": "PRO-APOQ16",
+    "name": "Apoquel Tabletas 16mg (Caja x 100) - Oferta Especial",
+    "category": "Dermatología",
+    "section": "promociones",
+    "description": "Tratamiento rápido del prurito asociado con dermatitis alérgica y dermatitis atópica.",
+    "vetPrice": 145.00,
+    "stock": 12,
+    "badge": "Oferta 3x2"
+  },
+  {
+    "code": "PRO-VETLOB",
+    "name": "Vet Life Obesity Canino 10.1kg - Descuento Temporal",
+    "category": "Alimentos",
+    "section": "promociones",
+    "description": "Alimento dietético completo formulado para la reducción del exceso de peso corporal en perros.",
+    "vetPrice": 92.00,
+    "stock": 8,
+    "badge": "-10% Neto"
+  },
+  {
+    "code": "VET-FIPR10",
+    "name": "Fipronil Pipetas Perros Grandes (4ml)",
+    "category": "Antiparasitarios",
+    "section": "catalogo",
+    "description": "Solución spot-on eficaz contra infestaciones por pulgas, garrapatas y piojos masticadores.",
+    "vetPrice": 12.50,
+    "stock": 100,
+    "badge": "Económico"
+  },
+  {
+    "code": "PRO-CONDRO50",
+    "name": "Condoprotector Artrisin Forte (Caja x 60 tabs) - Promo Pack",
+    "category": "Suplementos",
+    "section": "promociones",
+    "description": "Suplemento regenerador de cartílago articular de alta potencia para caninos de edad avanzada.",
+    "vetPrice": 28.00,
+    "stock": 40,
+    "badge": "Llevás 4 Págás 3"
+  },
+  {
+    "code": "VET-KETOCH",
+    "name": "Ketoconazol Shampoo Antifúngico Medulado (250ml)",
+    "category": "Dermatología",
+    "section": "catalogo",
+    "description": "Shampoo antiséptico para el control de afecciones dermatológicas asociadas con levaduras y hongos.",
+    "vetPrice": 19.50,
+    "stock": 25,
+    "badge": "Veterinario"
+  },
+  {
+    "code": "PRO-FRONTTR",
+    "name": "Frontline Tri-Act Solución Spot-on Canino Med (6 pipetas)",
+    "category": "Antiparasitarios",
+    "section": "promociones",
+    "description": "Efecto repelente reforzado frente a flebótomos y mosquitos. Máxima protección integral.",
+    "vetPrice": 54.00,
+    "stock": 15,
+    "badge": "Promo Envío"
+  }
+]

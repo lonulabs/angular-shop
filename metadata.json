@@ -1,0 +1,6 @@
+{
+  "name": "Veterinary Wholesale Web Shop",
+  "description": "Unified veterinary products catalog and promotions shop with dynamic discounts (30%, 40%, 50%, 50%+5%, and custom wholesalers price lists).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
